@@ -365,6 +365,7 @@ CLOOGTEST_OPENSCOP = \
 	test/openscop/matmult \
 	test/openscop/empty \
 	test/openscop/loops \
+	test/openscop/loops2 \
 	test/openscop/union \
 	test/openscop/coordinates \
 	test/openscop/clay
